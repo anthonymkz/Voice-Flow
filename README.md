@@ -1,6 +1,6 @@
 # VoiceFlow Integration
 
-![VoiceFlow Integration Overview](https://via.placeholder.com/1000x400?text=Integration+Image+Placeholder)
+![VoiceFlow Integration Overview](https://github.com/anthonymkz/Voice-Flow/blob/main/assets/voice_flow/logo@2x.png)
 
 VoiceFlow Integration is a powerful Home Assistant add-on that enables seamless routing of user commands and queries to specified agents. Simplify your smart home interactions with categorized inputs and tailored responses.
 
