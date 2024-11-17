@@ -1,0 +1,14 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Configure VoiceFlow",
+          "description": "Set up your command and question agents."
+        }
+      },
+      "error": {
+        "cannot_connect": "Cannot connect to the agent.",
+        "unknown": "Unexpected error."
+      }
+    }
+  }

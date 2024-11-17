@@ -1,0 +1,10 @@
+{
+    "domain": "voice_flow",
+    "name": "VoiceFlow",
+    "version": "1.0.0",
+    "documentation": "https://github.com/anthonymkz/Voice-Flow",
+    "issue_tracker": "https://github.com/anthonymkz/Voice-Flow/issues",
+    "codeowners": ["@anthonymkz"],
+    "iot_class": "local_push",
+    "config_flow": true
+}  
