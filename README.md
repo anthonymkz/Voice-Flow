@@ -99,7 +99,7 @@ We welcome contributions! Whether you’re fixing bugs, improving documentation,
 
 If you find this integration helpful, consider supporting its development:
 
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/anthonymkz)
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/anthonymkz){:width="200px"}
 
 ---
 
