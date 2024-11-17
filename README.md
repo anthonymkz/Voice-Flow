@@ -62,7 +62,8 @@ This design streamlines smart home actions and query handling.
    - Assign an agent for `question` inputs, such as a local or cloud-based AI.
    - Assign an agent for `command` inputs. By default, commands without a keyword will route to `Home Assistant Assist`. However, you can use the `command` keyword to direct specific inputs to a different agent for additional functionality or leave it as Assist to ensure certain commands route to Home Assistant.
 4. Save changes. Your integration is now ready.
-
+   
+> **Important:** Any additional conversation agents configured for use with the integration should be set to **NOT** control Home Assistant directly.
 ---
 
 ## Usage
@@ -86,6 +87,7 @@ To personalize your agents and ensure a smooth user experience, we recommend usi
 > "You are Jarvis, a conversational assistant. Your role is to respond thoughtfully and efficiently to user inputs. Provide concise, helpful, and friendly answers tailored to the user's needs."
 
 This prompt is entirely customizable, and you’re encouraged to modify it to better fit your specific use case or preferences.
+
 
 ---
 
